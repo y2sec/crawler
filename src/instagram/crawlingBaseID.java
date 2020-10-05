@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 다음으로 넘기는 방식의 크롤링은 링크 데이터를 수집하기 어려움
+ * 인스타그램 ID 값을 입력받아 해당 ID가 게시한 게시물 100개 크롤링
  */
 public class crawlingBaseID {
     public static void main(String[] args) throws InterruptedException {
