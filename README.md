@@ -1,5 +1,5 @@
 # crawler
-#instagram/n
+#instagram
   Library - selenium
 #naverNews
   Library - jsoup
