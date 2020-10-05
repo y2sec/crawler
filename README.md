@@ -1,7 +1,7 @@
 # crawler
-instagram
+#instagram/n
   Library - selenium
-naverNews
+#naverNews
   Library - jsoup
-naverNewsRss
+#naverNewsRss
   Library - jsoup
